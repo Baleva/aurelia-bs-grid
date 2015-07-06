@@ -50,6 +50,10 @@
     "dependencies": {
       "bootstrap": "github:twbs/bootstrap@^3.3.5",
       "gooy/aurelia-compiler": "github:gooy/aurelia-compiler@^0.0.4"
+    },
+    "devDependencies": {
+      "traceur": "github:jmcriffey/bower-traceur@0.0.88",
+      "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.88"
     }
   }
 }
